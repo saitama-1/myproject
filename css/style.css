@@ -1,0 +1,9 @@
+
+
+.feature a {
+  width: 250px;
+  word-wrap: break-word;
+}
+.feature-1 ul li a{
+  height: 250px;
+}
